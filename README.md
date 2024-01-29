@@ -24,3 +24,10 @@ The homework and assignments I've done
 ## [CENG 350 Software Engineering](https://github.com/mertblgn1/METU-CNG/tree/master/CENG350)
 
 ## [CENG 384 Signals and Systems for Computer Engineers](https://github.com/mertblgn1/METU-CNG/tree/master/CENG384)
+
+## [CNG 435 Data Communications and Computer Networking](https://github.com/mertblgn1/METU-CNG/tree/master/CNG435)
+
+## [CNG 443 Introduction to Object-Oriented Programming Languages and Systems](https://github.com/mertblgn1/METU-CNG/tree/master/CNG443)
+
+## [CNG 445 Software Development with Scripting Languages](https://github.com/mertblgn1/METU-CNG/tree/master/CNG445)
+
