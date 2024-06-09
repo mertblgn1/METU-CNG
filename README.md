@@ -24,3 +24,11 @@ The homework and assignments I've done
 ## [CENG 350 Software Engineering](https://github.com/mertblgn1/METU-CNG/tree/master/CENG350)
 
 ## [CENG 384 Signals and Systems for Computer Engineers](https://github.com/mertblgn1/METU-CNG/tree/master/CENG384)
+
+## [CNG 334 Introduction to Operating Systems Engineers](https://github.com/mertblgn1/METU-CNG/tree/master/CNG334)
+
+## [CNG 352 Database Management System Engineers](https://github.com/mertblgn1/METU-CNG/tree/master/CNG352)
+
+## [CNG 462 Artificial Intelligence Engineers](https://github.com/mertblgn1/METU-CNG/tree/master/CNG462)
+
+## [CNG 483 Introduction to Computer Vision Engineers](https://github.com/mertblgn1/METU-CNG/tree/master/CNG483)
